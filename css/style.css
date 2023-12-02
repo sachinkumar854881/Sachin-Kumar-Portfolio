@@ -66,7 +66,7 @@ section{
 }
 /* home-image */
 .home-img img{
-    width:35vw;
+    width:40vw;
 }
 /* home-conent for h3 & h1 */
 .home-content h3{
@@ -136,7 +136,7 @@ span{
     background:var(--second-bg-color);
 }
 .about-img img{
-    width:35vw;
+    width:40vw;
 }
 .heading{
     text-align:center;
